@@ -1,4 +1,4 @@
-# InvestigacioEn: Variables y Constantes de Individuo en Programación Lógica y Prolog
+# Investigacio: Variables y Constantes de Individuo en Programación Lógica y Prolog
 
 ---
 
